@@ -1,0 +1,16 @@
+# VS Code settings
+.vscode/
+
+# System-generated files
+.DS_Store
+Thumbs.db
+
+# Node modules (if ever used)
+node_modules/
+
+# Large video files
+*.mp4
+
+# Temporary / cache files
+*.log
+*.tmp
